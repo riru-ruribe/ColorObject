@@ -1,0 +1,18 @@
+{
+    "name": "ColorObject.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e2b93a46ee0fa4a499b0c36e77596ed3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
