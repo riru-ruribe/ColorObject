@@ -1,0 +1,14 @@
+{
+  "name": "riru.ruribe.colorobject",
+  "displayName": "ColorObject",
+  "version": "1.0.0",
+  "description": "treat a struct 'UnityEngine.Color' as if it were a 'UnityEngine.Object'.",
+  "author": {
+    "name": "riru ruribe",
+    "url": "https://github.com/riru-ruribe"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/riru-ruribe/ColorObject",
+  "keywords": [],
+  "dependencies": {}
+}
