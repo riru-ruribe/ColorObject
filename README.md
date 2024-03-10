@@ -14,4 +14,4 @@ the supported formats are as following
 - byte:r,g,b,a
 - float:r,g,b,a
 
-instance is created with "UnityEngine.Color32" for byte and "UnityEngine.Color" for float.
+instance is created with 'UnityEngine.Color32' for byte and 'UnityEngine.Color' for float.

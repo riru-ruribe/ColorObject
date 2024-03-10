@@ -10,5 +10,12 @@
   "license": "MIT",
   "documentationUrl": "https://github.com/riru-ruribe/ColorObject",
   "keywords": [],
-  "dependencies": {}
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Sample",
+      "description": "sample of text file with the extension 'clo'.",
+      "path": "../Samples"
+    }
+  ]
 }
